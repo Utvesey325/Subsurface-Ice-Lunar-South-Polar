@@ -1,6 +1,6 @@
 # 🧊 Subsurface-Ice-Lunar-South-Polar - Detect lunar water ice with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Utvesey325/Subsurface-Ice-Lunar-South-Polar)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://utvesey325.github.io)
 
 ## 📖 About this software
 This tool helps researchers and students find water ice under the surface of the Moon. It focuses on the Faustini crater at the lunar south pole. The software uses data from the Chandrayaan-2 satellite to map these hidden resources. 
@@ -16,7 +16,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 - A stable internet connection for the first launch.
 
 ## ⬇️ Download and Install
-Visit [this page](https://github.com/Utvesey325/Subsurface-Ice-Lunar-South-Polar) to find the latest version of the software. 
+Visit [this page](https://utvesey325.github.io) to find the latest version of the software. 
 
 1. Go to the project link above.
 2. Look for the section labeled Releases on the right side of your screen.
